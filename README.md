@@ -65,9 +65,10 @@ tanto magnitud como ángulo.
 
 ![image](https://user-images.githubusercontent.com/93835587/155028712-030ca824-0aed-4e36-bb23-aee7fda3439c.png)
 
-
-
 9.6.2 Transforme a su forma rectangular:
+
+![image](https://user-images.githubusercontent.com/93835587/155029760-93d8333f-b5f8-43ac-8e7e-b009f709812f.png)
+
 
 9.6.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
 forma rectangular como en su forma polar.
