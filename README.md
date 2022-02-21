@@ -67,7 +67,7 @@ tanto magnitud como ángulo.
 forma rectangular como en su forma polar.
 
 -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- ------------------------
-**9.7. ANÁLISIS DE RESULTADOS POR MEDIO DE UNA CALCULADORA **
+**9.7. ANÁLISIS DE RESULTADOS POR MEDIO DE UNA CALCULADORA**
 
 
 
