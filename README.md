@@ -94,6 +94,7 @@ forma rectangular como en su forma polar.
 
 **9.9. CONCLUCIONES**
 
+El uso de los fasores es una herramienta matemática de gran ayuda, pues simplifica el análisis de los circuitos, haciendo más fácil los cálculos, ya que si se toma la señal en el dominio del tiempo se tendría que trabajar con ecuaciones diferenciales, lo cual haría más largo el procedimiento.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
