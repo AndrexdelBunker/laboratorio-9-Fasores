@@ -59,6 +59,9 @@ tanto magnitud como ángulo.
 
 ![image](https://user-images.githubusercontent.com/93835587/155027616-6c5871be-ada6-4b3d-afaa-79b237833726.png)
 
+![image](https://user-images.githubusercontent.com/93835587/155028025-720cd3ae-7bb1-4dba-866a-70244131a6a6.png)
+
+
 9.6.2 Transforme a su forma rectangular:
 
 9.6.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
