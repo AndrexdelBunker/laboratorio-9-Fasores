@@ -75,17 +75,17 @@ forma rectangular como en su forma polar.
 
 
 
-**9.9. VIDEOS**
+**9.8. VIDEOS**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**9.10. CONCLUCIONES**
+**9.9. CONCLUCIONES**
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**9.11. BIBLIOGRAFÍA**
+**9.10. BIBLIOGRAFÍA**
 
 Floyd, Thomas.L. (s. f.). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol. 1). Prentice Hall. https://latecnicalf.com.ar/descargas/material/electronicaanalogica/Dispositivos%20Electronicos%208va.edicion-%20Floyd.pdf
 
