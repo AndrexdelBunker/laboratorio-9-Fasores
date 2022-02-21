@@ -69,6 +69,8 @@ tanto magnitud como ángulo.
 
 ![image](https://user-images.githubusercontent.com/93835587/155029760-93d8333f-b5f8-43ac-8e7e-b009f709812f.png)
 
+![image](https://user-images.githubusercontent.com/93835587/155030040-96b7baf2-65ae-4e33-a3e9-2f157c08da95.png)
+
 
 9.6.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
 forma rectangular como en su forma polar.
