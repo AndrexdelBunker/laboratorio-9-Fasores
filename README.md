@@ -63,6 +63,9 @@ tanto magnitud como ángulo.
 
 ![image](https://user-images.githubusercontent.com/93835587/155028366-800e52e2-cce8-41f9-b32c-7fa3fc75944f.png)
 
+![image](https://user-images.githubusercontent.com/93835587/155028712-030ca824-0aed-4e36-bb23-aee7fda3439c.png)
+
+
 
 9.6.2 Transforme a su forma rectangular:
 
