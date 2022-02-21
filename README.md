@@ -57,6 +57,7 @@ tanto magnitud como ángulo.
 
 9.6.1. Transforme a su forma polar:
 
+![image](https://user-images.githubusercontent.com/93835587/155027616-6c5871be-ada6-4b3d-afaa-79b237833726.png)
 
 9.6.2 Transforme a su forma rectangular:
 
