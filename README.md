@@ -58,10 +58,15 @@ tanto magnitud como ángulo.
 
 **9.6. PROCEDIMIENTO**
 
+9.6.1. Transforme a su forma polar:
 
 
--------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------------------
+9.6.2 Transforme a su forma rectangular:
 
+9.6.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
+forma rectangular como en su forma polar.
+
+-------------------------------------------------- -------------------------------------------------- -------------------------------------------------- ------------------------
 **9.7. ANÁLISIS DE RESULTADOS POR MEDIO DE UNA CALCULADORA **
 
 
