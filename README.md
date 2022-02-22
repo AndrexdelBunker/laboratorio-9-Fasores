@@ -87,11 +87,17 @@ forma rectangular como en su forma polar.
 
 9.6.4. Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
 
+(a).
+
 ![image](https://user-images.githubusercontent.com/93835533/155146392-0f76a860-35fc-4e46-bbe9-42287b4c5573.png)
 ![image](https://user-images.githubusercontent.com/93835533/155146403-a428e895-1808-49dd-a3b3-74604e10f1f7.png)
 
+(b).
+
 ![image](https://user-images.githubusercontent.com/93835533/155146416-88d5cfab-29e7-45f5-acf7-94c04e21e909.png)
 ![image](https://user-images.githubusercontent.com/93835533/155146432-e6932760-a5c6-4247-82ce-c2c1dc35404c.png)
+
+(c).
 
 ![image](https://user-images.githubusercontent.com/93835533/155146450-1be51e27-269c-421e-86dc-ba6ef628a792.png)
 ![image](https://user-images.githubusercontent.com/93835533/155146465-e3dfd790-20d8-4799-a88b-5ede84f41aca.png)
