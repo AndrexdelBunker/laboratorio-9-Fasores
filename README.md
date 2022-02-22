@@ -79,6 +79,13 @@ tanto magnitud como ángulo.
 9.6.3. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su
 forma rectangular como en su forma polar.
 
+![image](https://user-images.githubusercontent.com/93835533/155078881-50e1a061-1324-44c0-959a-5cfd78010753.png)
+
+![image](https://user-images.githubusercontent.com/93835533/155078894-1700c3b2-3420-432f-b4a1-9d04b5976f46.png)
+
+![image](https://user-images.githubusercontent.com/93835533/155078904-9d9fc747-5dd0-4914-a781-ab17977742e5.png)
+
+
 -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- ------------------------
 **9.7. ANÁLISIS DE RESULTADOS POR MEDIO DE UNA CALCULADORA**
 
