@@ -85,6 +85,8 @@ forma rectangular como en su forma polar.
 
 ![image](https://user-images.githubusercontent.com/93835533/155078904-9d9fc747-5dd0-4914-a781-ab17977742e5.png)
 
+9.6.4. Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
+
 
 -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- ------------------------
 **9.7. ANÁLISIS DE RESULTADOS POR MEDIO DE UNA CALCULADORA**
